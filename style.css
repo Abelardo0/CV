@@ -1,0 +1,106 @@
+a{
+  color:#11999E;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+body{
+  margin:0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+.bottom-container{
+  padding-top: 40px;
+  height: 100px;
+  background-color: #66BFBF;
+  margin-top:100px;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  left:400px;
+}
+
+.btn{
+margin: 100px auto;
+background-color: #66BFBF;
+padding: 10px;
+border-radius: 10px;
+color:white;
+}
+
+.contact-me{
+  margin-bottom: 50px;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  color: #66BFBF;
+}
+
+h2{
+   font-size: 2.5rem;
+   font-weight: normal;
+   color: #66BFBF;
+}
+
+h3{
+  color:#11999E;
+}
+
+hr{
+width: 5%;
+border-style:none;
+border-top-style: dotted;
+border-width: 8px;
+margin:50px auto;
+color:#DDDDDD;
+}
+
+.middle-container{
+  padding:40px;
+}
+
+.mon-nom{
+ margin-top: 30px;
+ color:#EAF6F6;
+ font-size: 0.7rem;
+}
+
+
+.pi{
+ width: 25%;
+ float: left;
+ margin-right:30px;
+ margin-bottom:30px;
+}
+
+.desk{
+  width: 25%;
+  float: left;
+  margin-right:30px;
+  margin-bottom:30px; 
+}
+
+
+.skill-row{
+  width:50%;
+  margin: 200px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud{
+    position: relative;
+    left:450px;
+}
+
+.top-container{
+  padding-top:100px;
+  background-color: #E4F9F5;
+}
