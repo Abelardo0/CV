@@ -53,7 +53,7 @@ At the moment I want to focus on developing designs that please users and provid
 ## Author
 
 - Website - [Abelardo Gombo](https://abelardo0.github.io/CV/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Abelardo)
+- Frontend Mentor - [@Abelardo](https://www.frontendmentor.io/profile/Abelardo)
 
 
 
